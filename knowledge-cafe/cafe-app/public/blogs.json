@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "author_name": "Alice Smith",
+        "author_pic": "./images/alice_smith_pic.jpg",
+        "release_date": "15 Mar, 2024 (106 days ago)",
+        "blog_pic": "./images/blog_post_1_pic.jpg",
+        "title": "The Impact of Artificial Intelligence on Everyday Life",
+        "blog_post": "Artificial Intelligence (AI) has become an integral part of our daily lives, revolutionizing how we interact with technology. From virtual assistants like Siri and Alexa to advanced algorithms powering recommendation systems, AI is changing the way we work, play, and live. This blog post explores the various ways AI is impacting our everyday lives and how it will continue to shape the future.",
+        "reading_time": 8,
+        "hashtag": [
+            "#AI",
+            "#technology",
+            "#virtualassistants"
+        ]
+    },
+    {
+        "id": 2,
+        "author_name": "Bob Johnson",
+        "author_pic": "./images/bob_johnson_pic.jpg",
+        "release_date": "25 Dec, 2023 (187 days ago)",
+        "blog_pic": "./images/blog_post_2_pic.jpg",
+        "title": "The Rise of Blockchain Technology",
+        "blog_post": "Blockchain technology has gained significant attention in recent years due to its potential to revolutionize various industries. Originally created for the digital currency Bitcoin, blockchain is a distributed ledger that securely records transactions across a network of computers. This blog post explores the fundamentals of blockchain technology, its current applications, and its potential future impact.",
+        "reading_time": 10,
+        "hashtag": [
+            "#blockchain",
+            "#technology",
+            "#cryptocurrency"
+        ]
+    },
+    {
+        "id": 3,
+        "author_name": "Eva Brown",
+        "author_pic": "./images/eva_brown_pic.jpg",
+        "release_date": "10 Aug, 2023 (322 days ago)",
+        "blog_pic": "./images/blog_post_3_pic.jpg",
+        "title": "The Future of Quantum Computing",
+        "blog_post": "Quantum computing is a rapidly advancing field with the potential to solve complex problems that are currently beyond the capabilities of classical computers. Unlike traditional computers that use bits to represent data, quantum computers use quantum bits or qubits, which can exist in multiple states simultaneously. This blog post explores the basics of quantum computing, its current state of development, and its potential applications in fields such as cryptography, drug discovery, and more.",
+        "reading_time": 12,
+        "hashtag": [
+            "#quantumcomputing",
+            "#technology",
+            "#innovation"
+        ]
+    },
+    {
+        "id": 4,
+        "author_name": "Grace Lee",
+        "author_pic": "./images/grace_lee_pic.jpg",
+        "release_date": "21 Jun, 2024 (8 days ago)",
+        "blog_pic": "./images/blog_post_4_pic.jpg",
+        "title": "The Evolution of Cloud Computing",
+        "blog_post": "Cloud computing has evolved significantly over the years, transforming the way businesses and individuals store, access, and process data. This blog post traces the evolution of cloud computing from its early stages to the present day, highlighting key technological advancements and their impact on the industry. Additionally, it discusses future trends and potential developments in cloud computing.",
+        "reading_time": 9,
+        "hashtag": [
+            "#cloudcomputing",
+            "#technology",
+            "#datastorage"
+        ]
+    },
+    {
+        "id": 5,
+        "author_name": "Michael Wang",
+        "author_pic": "./images/michael_wang_pic.jpg",
+        "release_date": "17 Sep, 2023 (285 days ago)",
+        "blog_pic": "./images/blog_post_5_pic.jpg",
+        "title": "The Role of Big Data in Business",
+        "blog_post": "Big data has emerged as a critical asset for businesses, providing valuable insights that drive decision-making and strategy. This blog post explores the role of big data in business, including its applications across various industries, challenges associated with its management and analysis, and the potential benefits it offers for companies seeking to leverage data-driven strategies.",
+        "reading_time": 11,
+        "hashtag": [
+            "#bigdata",
+            "#businessintelligence",
+            "#analytics"
+        ]
+    },
+    {
+        "id": 6,
+        "author_name": "Sophia Chen",
+        "author_pic": "./images/sophia_chen_pic.jpg",
+        "release_date": "5 Feb, 2024 (144 days ago)",
+        "blog_pic": "./images/blog_post_6_pic.jpg",
+        "title": "The Future of 5G Technology",
+        "blog_post": "5G technology promises to revolutionize connectivity with faster speeds, lower latency, and greater capacity. This blog post discusses the potential impact of 5G on various industries, such as healthcare, manufacturing, and entertainment, as well as the challenges and opportunities that come with its implementation. Additionally, it explores the latest developments in 5G technology and its implications for the future.",
+        "reading_time": 10,
+        "hashtag": [
+            "#5G",
+            "#technology",
+            "#connectivity"
+        ]
+    },
+    {
+        "id": 7,
+        "author_name": "David Kim",
+        "author_pic": "./images/david_kim_pic.jpg",
+        "release_date": "8 Nov, 2023 (233 days ago)",
+        "blog_pic": "./images/blog_post_7_pic.jpg",
+        "title": "The Rise of Cybersecurity Threats",
+        "blog_post": "As technology continues to advance, so do the threats posed by cybercriminals. This blog post explores the rising cybersecurity threats facing individuals and organizations, including phishing attacks, ransomware, and data breaches. It also discusses the importance of cybersecurity measures and best practices for protecting against these evolving threats.",
+        "reading_time": 9,
+        "hashtag": [
+            "#cybersecurity",
+            "#technology",
+            "#cyberthreats"
+        ]
+    }
+]
