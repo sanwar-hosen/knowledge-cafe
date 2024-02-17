@@ -1,15 +1,14 @@
-import Home from "./Components/Home/Home"
+import Home from "./Components/Home/Home";
+import "./App.css";
 
 function App() {
-
-  return (
-    <>
-      <div>
-        <Home></Home>
-      </div>
-
-    </>
-  )
+    return (
+        <>
+            <div className="font-default">
+                <Home></Home>
+            </div>
+        </>
+    );
 }
 
-export default App
+export default App;

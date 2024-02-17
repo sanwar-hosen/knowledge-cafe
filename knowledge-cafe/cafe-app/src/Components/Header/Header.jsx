@@ -1,12 +1,16 @@
 
 const Header = () => {
     return (
-        <div>
-            <h1 className="text-5xl text-blue-800 font-extrabold bg-fuchsia-200 text-center p-8 ">
-                Knowledge Cafe
-            </h1>
-        </div>
-    );
+        <>
+            <div className="flex justify-between items-center px-2">
+                <h1 className="text-4xl text-black font-bold text-center px-8 py-6 ">
+                    Knowledge Cafe
+                </h1>
+                <img src="./images/user.png" alt="" className="w-auto h-12 rounded-full hover:shadow-xl" />
+            </div>
+            <hr className="pb-4" />
+        </>
+    ); 
 };
 
 export default Header;
