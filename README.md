@@ -1,8 +1,6 @@
-# React + Vite
+# Knowledge Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Knowledge Cafe Website.
+A simple Blog site where you can bookmark and it automatically count the total reading time of yours and remove the bookmark.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Surge Host]('ruthless-cow.surge.sh')
